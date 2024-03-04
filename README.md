@@ -13,18 +13,23 @@
 
 ## Aula 03 - Lógica digital
 * [Slides](/slides/Aula03.LógicaDigital.(2023-1).pdf)
+* [Modelos - Logisim](/logisim/Aula%2003.zip)
 
 ## Aula 04 - Mintermos e maxtermos
 * [Slides](/slides/Aula04.MintermosEMaxtermos.(2023-1).pdf)
+* [Modelos - Logisim](/logisim/Aula%2004.zip)
 
 ## Aula 05 - Mapa de Karnaugh
 * [Slides](/slides/Aula05.MapaDeKarnaugh.(2023-1).pdf)
+* [Modelos - Logisim](/logisim/Aula%2005.zip)
 
 ## Aula 06 - Circuitos combinatórios
 * [Slides](/slides/Aula06.CircuitosCombinatorios.(2023-1).pdf)
+* [Modelos - Logisim](/logisim/Aula%2006.zip)
 
 ## Aula 07 - Circuitos sequenciais
 * [Slides](/slides/Aula07.CircuitosSequenciais.(2023-1).pdf)
+* [Modelos - Logisim](/logisim/Aula%2007.zip)
 
 ## Aula 08 - O sistema de computação
 * [Slides](/slides/Aula08.OSistemaDeComputacao.(2023-1).pdf)
